@@ -21,11 +21,11 @@
 
 ## Issues
 
-![Issue_Overview](Issue_Overview.jpg)
+![Issue_Overview](src/Issue_Overview.jpg)
 
 ## Projects
 
-![Project Overview](Project_Overview.jpg)
+![Project Overview](src/Project_Overview.jpg)
 
 ### Table
 
