@@ -1,5 +1,25 @@
 # ExpertGroupGitHubTraining
 
+## Process
+
+- Setup a repository
+  - Wiki
+  - Discussions
+- Setup a project and link it to the repository
+  - Use only one of the following: board, roadmap, table
+- Plan your project by creating issues and setting them up within the project
+- Get yourself a team of people and set them up as commiters, reviewers etc.
+- Start: Loop
+  - Have your team pull issues
+  - Have your team create feature-branches per issue
+  - Have your team work on the issues
+  - Have your team pull-requests the feature-branch back into the main-branch
+  - Do reviews
+  - Solve merge conflicts
+  - Merge
+  - Delete feature-branch
+- End: Loop
+
 ## Main View
 
 ![Repo Main View](src/Repo_Main_View.jpg)
