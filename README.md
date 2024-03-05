@@ -1,5 +1,9 @@
 # ExpertGroupGitHubTraining
 
+## History
+
+![Version Control Why](src/VersionControl_Why.svg)
+
 ## Process
 
 - Setup a repository
@@ -59,6 +63,16 @@
 
 ![Project Roadmap](src/Project_Roadmap.jpg)
 
-##
+## Local Toolchain
 
-##
+### Version Control System
+
+#### Git Desktop
+
+https://desktop.github.com/
+
+### Code Editor
+
+#### Visual Studio Code
+
+https://code.visualstudio.com/
