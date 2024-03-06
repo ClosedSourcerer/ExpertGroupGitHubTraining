@@ -69,6 +69,7 @@ https://docs.github.com/en/get-started/learning-about-github/github-glossary
 ## Merge conflict
 - Can appear when making a pull requests
 - Can appear when multiple feature branches edit the same file and then try merging back into the main branch
+- Some merge conflicts can be solved automatically
 - A difference that occurs between merged branches. Merge conflicts happen when people make different changes to the same line of the same file, or when one person edits a file and another person deletes the same file. The merge conflict must be resolved before you can merge the branches.
 
 ## Pull Requests
