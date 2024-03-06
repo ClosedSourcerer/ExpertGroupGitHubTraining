@@ -1,5 +1,10 @@
 # ExpertGroupGitHubTraining
 
+https://docs.github.com/en
+
+https://docs.github.com/en/get-started/learning-about-github/github-glossary
+
+
 ## History
 
 ![Version Control Why](src/VersionControl_Why.svg)
@@ -46,10 +51,39 @@
     - used to be called trunk
 - If you create a new branch you must choose an existing branch as the basis for the new one.
 - Better to only create branches from main and also merge them back only into main
+- A branch is a parallel version of a repository. It is contained within the repository, but does not affect the primary or main branch allowing you to work freely without disrupting the "live" version. When you've made the changes you want to make, you can merge your branch back into the main branch to publish your changes. 
 
 ## Commits
 
+- Make changes to a file and commit them into the branch.
+- The commit represents the changes to the file
+- Commits be be tracked and commented
+- A commit, or "revision", is an individual change to a file (or set of files). When you make a commit to save your work, Git creates a unique ID (a.k.a. the "SHA" or "hash") that allows you to keep record of the specific changes committed along with who made them and when. Commits usually contain a commit message which is a brief description of what changes were made.
+
+## Merge
+
+- Merges apply changes from one branch into another branch
+- We merge vua pull requests
+- Merging takes the changes from one branch (in the same repository or from a fork), and applies them into another. This often happens as a "pull request" (which can be thought of as a request to merge), or via the command line. A merge can be done through a pull request via the GitHub.com web interface if there are no conflicting changes, or can always be done via the command line.
+
+## Merge conflict
+- Can appear when making a pull requests
+- Can appear when multiple feature branches edit the same file and then try merging back into the main branch
+- A difference that occurs between merged branches. Merge conflicts happen when people make different changes to the same line of the same file, or when one person edits a file and another person deletes the same file. The merge conflict must be resolved before you can merge the branches.
+
 ## Pull Requests
+
+- Used to requests that a branch gets merged into another branch
+- Can be combined with a review process
+- Develop your feature in a feature branch and then request to have it merged back into the main branch
+- Merge conflicts have to be resolved before the merge can be executed
+- Pull requests are proposed changes to a repository submitted by a user and accepted or rejected by a repository's collaborators. Like issues, pull requests each have their own discussion forum.
+
+## Forks
+
+- A copy of antoher repository, that still knows its source
+- You can sync with the source and pull requests into the source
+- A fork is a personal copy of another user's repository that lives on your account. Forks allow you to freely make changes to a project without affecting the original upstream repository. You can also open a pull request in the upstream repository and keep your fork synced with the latest changes since both repositories are still connected.
 
 ## Issues
 
