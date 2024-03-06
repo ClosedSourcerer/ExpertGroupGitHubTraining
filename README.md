@@ -6,6 +6,8 @@
 
 ## Process
 
+![Version Control Process](src/VersionControl_Why_2.svg)
+
 - Setup a repository
   - Wiki
   - Discussions
@@ -38,6 +40,12 @@
     - used to start your own thing based on someon elses work
 
 ## Branches
+
+- Repositories start with the main branch
+  - used to be called master
+    - used to be called trunk
+- If you create a new branch you must choose an existing branch as the basis for the new one.
+- Better to only create branches from main and also merge them back only into main
 
 ## Commits
 
