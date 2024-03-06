@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generiert durch Microsoft Visio, SVG Export VersionControl_Why_2.svg Zeichenblatt-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="12.7203in" height="4.54839in"
+		viewBox="0 0 915.86 327.484" xml:space="preserve" color-interpolation-filters="sRGB" class="st14">
+	<v:documentProperties v:langID="1031" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#4672c4;stroke:#c7c8c8;stroke-width:0.25}
+		.st2 {fill:#feffff;font-family:Calibri;font-size:0.833336em}
+		.st3 {font-size:1em}
+		.st4 {fill:#70ad47;stroke:#c7c8c8;stroke-width:0.25}
+		.st5 {fill:#fec000;stroke:#c7c8c8;stroke-width:0.25}
+		.st6 {marker-end:url(#mrkr4-18);stroke:#4672c4;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st7 {fill:#4672c4;fill-opacity:1;stroke:#4672c4;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st8 {fill:#ed7d31;stroke:#c7c8c8;stroke-width:0.25}
+		.st9 {fill:#3c63ac;stroke:#30518f;stroke-width:0.75}
+		.st10 {fill:url(#grad0-169)}
+		.st11 {stroke:#3c63ac;stroke-width:0.75}
+		.st12 {fill:#3c63ac;font-family:Calibri;font-size:0.833336em}
+		.st13 {fill:url(#grad0-180);stroke:#3c63ac;stroke-width:0.75}
+		.st14 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-169" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+			<stop offset="0" stop-color="#e8ebf4" stop-opacity="1"/>
+			<stop offset="0.24" stop-color="#f4f5f9" stop-opacity="1"/>
+			<stop offset="0.54" stop-color="#feffff" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-180" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+			<stop offset="0" stop-color="#c5cae4" stop-opacity="1"/>
+			<stop offset="0.24" stop-color="#cfd3e9" stop-opacity="1"/>
+			<stop offset="0.54" stop-color="#3359a2" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-18" class="st7" v:arrowType="4" v:arrowSize="2" v:setback="7.04" refX="-7.04" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Zeichenblatt-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Verbinder" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(178.602,-7.83661)">
+			<title>Kreis</title>
+			<desc>Create Main</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="299.138" width="49.61" height="42.5197"/>
+			<path d="M0 299.14 A28.3465 28.3465 0 0 1 56.69 299.14 A28.3465 28.3465 0 1 1 -0 299.14 Z" class="st1"/>
+			<text x="14.89" y="296.14" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Create <tspan
+						x="17.9" dy="1.2em" class="st3">Main</tspan></text>		</g>
+		<g id="shape4-5" v:mID="4" v:groupContext="shape" transform="translate(348.68,-7.83661)">
+			<title>Kreis.4</title>
+			<desc>Commit to Main</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="299.138" width="49.61" height="42.5197"/>
+			<path d="M0 299.14 A28.3465 28.3465 0 0 1 56.69 299.14 A28.3465 28.3465 0 1 1 -0 299.14 Z" class="st4"/>
+			<text x="12.23" y="296.14" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Commit <tspan
+						x="12.46" dy="1.2em" class="st3">to Main</tspan></text>		</g>
+		<g id="shape6-9" v:mID="6" v:groupContext="shape" transform="translate(518.759,-7.83661)">
+			<title>Kreis.6</title>
+			<desc>Merge B into Main</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="299.138" width="49.61" height="42.5197"/>
+			<path d="M0 299.14 A28.3465 28.3465 0 0 1 56.69 299.14 A28.3465 28.3465 0 1 1 -0 299.14 Z" class="st5"/>
+			<text x="11.15" y="296.14" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Merge B <tspan
+						x="8.69" dy="1.2em" class="st3">into Main</tspan></text>		</g>
+		<g id="shape8-13" v:mID="8" v:groupContext="shape" v:layerMember="0" transform="translate(235.295,-29.0965)">
+			<title>Dynamischer Verbinder</title>
+			<path d="M0 320.4 L106.35 320.4" class="st6"/>
+		</g>
+		<g id="shape10-19" v:mID="10" v:groupContext="shape" v:layerMember="0" transform="translate(405.373,-29.0965)">
+			<title>Dynamischer Verbinder.10</title>
+			<path d="M0 320.4 L106.35 320.4" class="st6"/>
+		</g>
+		<g id="shape12-24" v:mID="12" v:groupContext="shape" v:layerMember="0" transform="translate(575.452,-29.0965)">
+			<title>Dynamischer Verbinder.12</title>
+			<path d="M0 320.4 L106.35 320.4" class="st6"/>
+		</g>
+		<g id="shape47-29" v:mID="47" v:groupContext="shape" transform="translate(688.838,-7.83661)">
+			<title>Kreis.47</title>
+			<desc>Commit to Main</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="299.138" width="49.61" height="42.5197"/>
+			<path d="M0 299.14 A28.3465 28.3465 0 0 1 56.69 299.14 A28.3465 28.3465 0 1 1 -0 299.14 Z" class="st4"/>
+			<text x="12.23" y="296.14" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Commit <tspan
+						x="12.46" dy="1.2em" class="st3">to Main</tspan></text>		</g>
+		<g id="shape49-33" v:mID="49" v:groupContext="shape" transform="translate(858.917,-7.83661)">
+			<title>Kreis.49</title>
+			<desc>Merge A into Main</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="299.138" width="49.61" height="42.5197"/>
+			<path d="M0 299.14 A28.3465 28.3465 0 0 1 56.69 299.14 A28.3465 28.3465 0 1 1 -0 299.14 Z" class="st8"/>
+			<text x="10.98" y="296.14" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Merge A <tspan
+						x="8.69" dy="1.2em" class="st3">into Main</tspan></text>		</g>
+		<g id="shape52-37" v:mID="52" v:groupContext="shape" v:layerMember="0" transform="translate(745.531,-29.0965)">
+			<title>Dynamischer Verbinder.52</title>
+			<path d="M0 320.4 L21.31 320.4" class="st6"/>
+		</g>
+		<g id="shape56-42" v:mID="56" v:groupContext="shape" transform="translate(263.641,-92.876)">
+			<title>Kreis.56</title>
+			<desc>Create Feature Branch B</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="299.138" width="49.61" height="42.5197"/>
+			<path d="M0 299.14 A28.3465 28.3465 0 0 1 56.69 299.14 A28.3465 28.3465 0 1 1 -0 299.14 Z" class="st1"/>
+			<text x="14.89" y="290.14" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Create <tspan
+						x="12.63" dy="1.2em" class="st3">Feature </tspan><tspan x="10.27" dy="1.2em" class="st3">Branch B</tspan></text>		</g>
+		<g id="shape57-47" v:mID="57" v:groupContext="shape" transform="translate(348.68,-92.876)">
+			<title>Kreis.57</title>
+			<desc>Commit to B</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="299.138" width="49.61" height="42.5197"/>
+			<path d="M0 299.14 A28.3465 28.3465 0 0 1 56.69 299.14 A28.3465 28.3465 0 1 1 -0 299.14 Z" class="st4"/>
+			<text x="12.23" y="296.14" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Commit <tspan
+						x="20.18" dy="1.2em" class="st3">to B</tspan></text>		</g>
+		<g id="shape58-51" v:mID="58" v:groupContext="shape" transform="translate(433.72,-92.876)">
+			<title>Kreis.58</title>
+			<desc>Commit to B</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="299.138" width="49.61" height="42.5197"/>
+			<path d="M0 299.14 A28.3465 28.3465 0 0 1 56.69 299.14 A28.3465 28.3465 0 1 1 -0 299.14 Z" class="st4"/>
+			<text x="12.23" y="296.14" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Commit <tspan
+						x="20.18" dy="1.2em" class="st3">to B</tspan></text>		</g>
+		<g id="shape62-55" v:mID="62" v:groupContext="shape" v:layerMember="0" transform="translate(320.334,-114.136)">
+			<title>Dynamischer Verbinder.62</title>
+			<path d="M0 320.4 L21.31 320.4" class="st6"/>
+		</g>
+		<g id="shape63-60" v:mID="63" v:groupContext="shape" v:layerMember="0" transform="translate(405.373,-114.136)">
+			<title>Dynamischer Verbinder.63</title>
+			<path d="M0 320.4 L21.31 320.4" class="st6"/>
+		</g>
+		<g id="shape90-65" v:mID="90" v:groupContext="shape" transform="translate(178.602,-177.915)">
+			<title>Kreis.90</title>
+			<desc>Create Feature Branch A</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="299.138" width="49.61" height="42.5197"/>
+			<path d="M0 299.14 A28.3465 28.3465 0 0 1 56.69 299.14 A28.3465 28.3465 0 1 1 -0 299.14 Z" class="st1"/>
+			<text x="14.89" y="290.14" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Create <tspan
+						x="12.63" dy="1.2em" class="st3">Feature </tspan><tspan x="10.1" dy="1.2em" class="st3">Branch A</tspan></text>		</g>
+		<g id="shape91-70" v:mID="91" v:groupContext="shape" transform="translate(263.641,-177.915)">
+			<title>Kreis.91</title>
+			<desc>Commit to A</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="299.138" width="49.61" height="42.5197"/>
+			<path d="M0 299.14 A28.3465 28.3465 0 0 1 56.69 299.14 A28.3465 28.3465 0 1 1 -0 299.14 Z" class="st4"/>
+			<text x="12.23" y="296.14" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Commit <tspan
+						x="20.01" dy="1.2em" class="st3">to A</tspan></text>		</g>
+		<g id="shape92-74" v:mID="92" v:groupContext="shape" transform="translate(348.68,-177.915)">
+			<title>Kreis.92</title>
+			<desc>Commit to A</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="299.138" width="49.61" height="42.5197"/>
+			<path d="M0 299.14 A28.3465 28.3465 0 0 1 56.69 299.14 A28.3465 28.3465 0 1 1 -0 299.14 Z" class="st4"/>
+			<text x="12.23" y="296.14" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Commit <tspan
+						x="20.01" dy="1.2em" class="st3">to A</tspan></text>		</g>
+		<g id="shape95-78" v:mID="95" v:groupContext="shape" transform="translate(603.799,-177.915)">
+			<title>Kreis.95</title>
+			<desc>Commit to A</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="299.138" width="49.61" height="42.5197"/>
+			<path d="M0 299.14 A28.3465 28.3465 0 0 1 56.69 299.14 A28.3465 28.3465 0 1 1 -0 299.14 Z" class="st4"/>
+			<text x="12.23" y="296.14" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Commit <tspan
+						x="20.01" dy="1.2em" class="st3">to A</tspan></text>		</g>
+		<g id="shape96-82" v:mID="96" v:groupContext="shape" v:layerMember="0" transform="translate(320.334,-199.175)">
+			<title>Dynamischer Verbinder.96</title>
+			<path d="M0 320.4 L21.31 320.4" class="st6"/>
+		</g>
+		<g id="shape97-87" v:mID="97" v:groupContext="shape" v:layerMember="0" transform="translate(405.373,-199.175)">
+			<title>Dynamischer Verbinder.97</title>
+			<path d="M0 320.4 L180.39 320.4 A2.3622 2.3622 0 0 1 185.11 320.4 L191.39 320.4" class="st6"/>
+		</g>
+		<g id="shape101-92" v:mID="101" v:groupContext="shape" transform="translate(773.877,-177.915)">
+			<title>Kreis.101</title>
+			<desc>Commit to A</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="299.138" width="49.61" height="42.5197"/>
+			<path d="M0 299.14 A28.3465 28.3465 0 0 1 56.69 299.14 A28.3465 28.3465 0 1 1 -0 299.14 Z" class="st4"/>
+			<text x="12.23" y="296.14" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Commit <tspan
+						x="20.01" dy="1.2em" class="st3">to A</tspan></text>		</g>
+		<g id="shape103-96" v:mID="103" v:groupContext="shape" v:layerMember="0" transform="translate(660.491,-199.175)">
+			<title>Dynamischer Verbinder.103</title>
+			<path d="M0 320.4 L95.35 320.4 A2.3622 2.3622 0 1 1 100.07 320.4 L106.35 320.4" class="st6"/>
+		</g>
+		<g id="shape106-101" v:mID="106" v:groupContext="shape" v:layerMember="0" transform="translate(235.295,-199.175)">
+			<title>Dynamischer Verbinder.106</title>
+			<path d="M0 320.4 L21.31 320.4" class="st6"/>
+		</g>
+		<g id="shape214-106" v:mID="214" v:groupContext="shape" transform="translate(603.799,-262.955)">
+			<title>Kreis.214</title>
+			<desc>Create Feature Branch C</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="299.138" width="49.61" height="42.5197"/>
+			<path d="M0 299.14 A28.3465 28.3465 0 0 1 56.69 299.14 A28.3465 28.3465 0 1 1 -0 299.14 Z" class="st1"/>
+			<text x="14.89" y="290.14" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Create <tspan
+						x="12.63" dy="1.2em" class="st3">Feature </tspan><tspan x="10.32" dy="1.2em" class="st3">Branch C</tspan></text>		</g>
+		<g id="shape262-111" v:mID="262" v:groupContext="shape" v:layerMember="0" transform="translate(235.295,-36.1831)">
+			<title>Dynamischer Verbinder.262</title>
+			<path d="M0 327.48 L56.69 327.48 L56.69 277.83" class="st6"/>
+		</g>
+		<g id="shape263-116" v:mID="263" v:groupContext="shape" v:layerMember="0" transform="translate(462.066,-92.876)">
+			<title>Dynamischer Verbinder.263</title>
+			<path d="M0 327.48 L0 384.18 L49.65 384.18" class="st6"/>
+		</g>
+		<g id="shape264-121" v:mID="264" v:groupContext="shape" v:layerMember="0" transform="translate(199.862,-64.5295)">
+			<title>Dynamischer Verbinder.264</title>
+			<path d="M7.09 327.48 L7.09 221.14" class="st6"/>
+		</g>
+		<g id="shape265-126" v:mID="265" v:groupContext="shape" v:layerMember="0" transform="translate(830.57,-206.262)">
+			<title>Dynamischer Verbinder.265</title>
+			<path d="M0 327.48 L12.67 327.48 L12.67 497.56 L21.31 497.56" class="st6"/>
+		</g>
+		<g id="shape268-131" v:mID="268" v:groupContext="shape" v:layerMember="0" transform="translate(575.452,-36.1831)">
+			<title>Dynamischer Verbinder.268</title>
+			<path d="M0 327.48 L12.67 327.48 L12.67 72.37 L21.31 72.37" class="st6"/>
+		</g>
+		<g id="shape269-136" v:mID="269" v:groupContext="shape" transform="translate(773.877,-7.83663)">
+			<title>Kreis.269</title>
+			<desc>Merge C into Main</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="299.138" width="49.61" height="42.5197"/>
+			<path d="M0 299.14 A28.3465 28.3465 0 0 1 56.69 299.14 A28.3465 28.3465 0 1 1 -0 299.14 Z" class="st5"/>
+			<text x="11.2" y="296.14" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Merge C <tspan
+						x="8.69" dy="1.2em" class="st3">into Main</tspan></text>		</g>
+		<g id="shape270-140" v:mID="270" v:groupContext="shape" v:layerMember="0" transform="translate(830.57,-43.2697)">
+			<title>Dynamischer Verbinder.270</title>
+			<path d="M0 334.57 L21.31 334.57" class="st6"/>
+		</g>
+		<g id="shape272-145" v:mID="272" v:groupContext="shape" transform="translate(688.838,-262.955)">
+			<title>Kreis.272</title>
+			<desc>Commit to C</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="299.138" width="49.61" height="42.5197"/>
+			<path d="M0 299.14 A28.3465 28.3465 0 0 1 56.69 299.14 A28.3465 28.3465 0 1 1 -0 299.14 Z" class="st4"/>
+			<text x="12.23" y="296.14" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Commit <tspan
+						x="20.24" dy="1.2em" class="st3">to C</tspan></text>		</g>
+		<g id="shape273-149" v:mID="273" v:groupContext="shape" v:layerMember="0" transform="translate(660.491,-298.388)">
+			<title>Dynamischer Verbinder.273</title>
+			<path d="M0 334.57 L21.31 334.57" class="st6"/>
+		</g>
+		<g id="shape274-154" v:mID="274" v:groupContext="shape" v:layerMember="0" transform="translate(745.531,-291.301)">
+			<title>Dynamischer Verbinder.274</title>
+			<path d="M0 327.48 L12.67 327.48 L12.67 582.6 L21.31 582.6" class="st6"/>
+		</g>
+		<g id="shape282-159" v:mID="282" v:groupContext="shape" transform="translate(104.901,-170.829)">
+			<title>Akteur</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M6.8 327.48 L6.8 292.05 L6.8 306.22 L0 306.22 L0 277.88 L3.4 274.33 L30.61 274.33 L34.02 277.88 L34.02 306.22
+						 L27.21 306.22 L27.21 292.05 L27.21 327.48 L17.01 327.48 L17.01 299.14 L17.01 327.48 L6.8 327.48 ZM24.09
+						 263.7 A7.08661 7.08661 -180 1 0 9.92 263.7 A7.08661 7.08661 -180 1 0 24.09 263.7 Z" class="st9"/>
+		</g>
+		<g id="shape283-161" v:mID="283" v:groupContext="shape" transform="translate(104.901,-255.868)">
+			<title>Akteur.283</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M6.8 327.48 L6.8 292.05 L6.8 306.22 L0 306.22 L0 277.88 L3.4 274.33 L30.61 274.33 L34.02 277.88 L34.02 306.22
+						 L27.21 306.22 L27.21 292.05 L27.21 327.48 L17.01 327.48 L17.01 299.14 L17.01 327.48 L6.8 327.48 ZM24.09
+						 263.7 A7.08661 7.08661 -180 1 0 9.92 263.7 A7.08661 7.08661 -180 1 0 24.09 263.7 Z" class="st9"/>
+		</g>
+		<g id="shape284-163" v:mID="284" v:groupContext="shape" transform="translate(104.901,-85.7894)">
+			<title>Akteur.284</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M6.8 327.48 L6.8 292.05 L6.8 306.22 L0 306.22 L0 277.88 L3.4 274.33 L30.61 274.33 L34.02 277.88 L34.02 306.22
+						 L27.21 306.22 L27.21 292.05 L27.21 327.48 L17.01 327.48 L17.01 299.14 L17.01 327.48 L6.8 327.48 ZM24.09
+						 263.7 A7.08661 7.08661 -180 1 0 9.92 263.7 A7.08661 7.08661 -180 1 0 24.09 263.7 Z" class="st9"/>
+		</g>
+		<g id="group285-165" transform="translate(23.3825,-256.211)" v:mID="285" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="ScrollDia" v:prompt="" v:val="VT0(0.14763779527559):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ScrollDia" v:prompt="" v:val="VT0(0.12183994006985):1"/>
+			</v:userDefs>
+			<title>Vertikaler Scrollen</title>
+			<desc>Issue with: Feature Request</desc>
+			<g id="shape285-166" v:mID="285" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.0899" cy="296.781" width="52.64" height="70.1798"/>
+				<path d="M8.77 318.71 L4.39 318.71 A4.38624 4.38624 -180 1 0 4.39 327.48 L57.02 327.48 A4.38484 4.38484 -180 0 0
+							 61.41 323.1 L61.41 266.08 L65.79 266.08 A4.38624 4.38624 -180 1 0 65.79 257.3 L13.16 257.3 A4.38484
+							 4.38484 -180 0 0 8.77 261.69 L8.77 318.71 Z" class="st10"/>
+				<path d="M8.77 318.71 L4.39 318.71 A4.38624 4.38624 -180 1 0 4.39 327.48 L57.02 327.48 A4.38484 4.38484 -180 0 0
+							 61.41 323.1 L61.41 266.08 L65.79 266.08 A4.38624 4.38624 -180 1 0 65.79 257.3 L13.16 257.3 A4.38484
+							 4.38484 -180 0 0 8.77 261.69 L8.77 318.71" class="st11"/>
+				<path d="M8.77 318.71 L8.77 323.1" class="st11"/>
+				<path d="M13.16 266.08 L65.79 266.08" class="st11"/>
+				<path d="M17.54 261.69 A4.38484 4.38484 -180 0 0 13.16 257.3" class="st11"/>
+				<text x="13.31" y="287.78" class="st12" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Issue with: <tspan
+							x="19.38" dy="1.2em" class="st3">Feature </tspan><tspan x="18.52" dy="1.2em" class="st3">Request</tspan></text>			</g>
+			<g id="shape286-177" v:mID="286" v:groupContext="shape">
+				<title>Tabelle.286</title>
+				<v:userDefs>
+					<v:ud v:nameU="ScrollDia" v:prompt="" v:val="VT0(0.14763779527559):24"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(1)"/>
+					<v:ud v:nameU="ScrollDia" v:prompt="" v:val="VT0(0.12183994006985):1"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#4672c4)"/>
+				</v:userDefs>
+				<path d="M8.77 323.1 L4.39 323.1 A2.19312 2.19312 -180 0 0 4.39 318.71 A4.38624 4.38624 -180 1 0 4.39 327.48 A4.38484
+							 4.38484 -180 0 0 8.77 323.1 ZM17.54 261.69 L13.16 261.69 A2.19312 2.19312 -180 0 0 13.16 266.08 A4.38484
+							 4.38484 -180 0 0 17.54 261.69 Z" class="st13"/>
+			</g>
+		</g>
+		<g id="group287-181" transform="translate(23.3825,-167.457)" v:mID="287" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="ScrollDia" v:prompt="" v:val="VT0(0.14763779527559):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ScrollDia" v:prompt="" v:val="VT0(0.12183994006985):1"/>
+			</v:userDefs>
+			<title>Vertikaler Scrollen.287</title>
+			<desc>Issue with: Feature Request</desc>
+			<g id="shape287-182" v:mID="287" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.0899" cy="296.781" width="52.64" height="70.1798"/>
+				<path d="M8.77 318.71 L4.39 318.71 A4.38624 4.38624 -180 1 0 4.39 327.48 L57.02 327.48 A4.38484 4.38484 -180 0 0
+							 61.41 323.1 L61.41 266.08 L65.79 266.08 A4.38624 4.38624 -180 1 0 65.79 257.3 L13.16 257.3 A4.38484
+							 4.38484 -180 0 0 8.77 261.69 L8.77 318.71 Z" class="st10"/>
+				<path d="M8.77 318.71 L4.39 318.71 A4.38624 4.38624 -180 1 0 4.39 327.48 L57.02 327.48 A4.38484 4.38484 -180 0 0
+							 61.41 323.1 L61.41 266.08 L65.79 266.08 A4.38624 4.38624 -180 1 0 65.79 257.3 L13.16 257.3 A4.38484
+							 4.38484 -180 0 0 8.77 261.69 L8.77 318.71" class="st11"/>
+				<path d="M8.77 318.71 L8.77 323.1" class="st11"/>
+				<path d="M13.16 266.08 L65.79 266.08" class="st11"/>
+				<path d="M17.54 261.69 A4.38484 4.38484 -180 0 0 13.16 257.3" class="st11"/>
+				<text x="13.31" y="287.78" class="st12" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Issue with: <tspan
+							x="19.38" dy="1.2em" class="st3">Feature </tspan><tspan x="18.52" dy="1.2em" class="st3">Request</tspan></text>			</g>
+			<g id="shape288-192" v:mID="288" v:groupContext="shape">
+				<title>Tabelle.288</title>
+				<v:userDefs>
+					<v:ud v:nameU="ScrollDia" v:prompt="" v:val="VT0(0.14763779527559):24"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(1)"/>
+					<v:ud v:nameU="ScrollDia" v:prompt="" v:val="VT0(0.12183994006985):1"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#4672c4)"/>
+				</v:userDefs>
+				<path d="M8.77 323.1 L4.39 323.1 A2.19312 2.19312 -180 0 0 4.39 318.71 A4.38624 4.38624 -180 1 0 4.39 327.48 A4.38484
+							 4.38484 -180 0 0 8.77 323.1 ZM17.54 261.69 L13.16 261.69 A2.19312 2.19312 -180 0 0 13.16 266.08 A4.38484
+							 4.38484 -180 0 0 17.54 261.69 Z" class="st13"/>
+			</g>
+		</g>
+		<g id="group289-195" transform="translate(23.3825,-86.1325)" v:mID="289" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="ScrollDia" v:prompt="" v:val="VT0(0.14763779527559):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ScrollDia" v:prompt="" v:val="VT0(0.12183994006985):1"/>
+			</v:userDefs>
+			<title>Vertikaler Scrollen.289</title>
+			<desc>Issue with: Feature Request</desc>
+			<g id="shape289-196" v:mID="289" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.0899" cy="296.781" width="52.64" height="70.1798"/>
+				<path d="M8.77 318.71 L4.39 318.71 A4.38624 4.38624 -180 1 0 4.39 327.48 L57.02 327.48 A4.38484 4.38484 -180 0 0
+							 61.41 323.1 L61.41 266.08 L65.79 266.08 A4.38624 4.38624 -180 1 0 65.79 257.3 L13.16 257.3 A4.38484
+							 4.38484 -180 0 0 8.77 261.69 L8.77 318.71 Z" class="st10"/>
+				<path d="M8.77 318.71 L4.39 318.71 A4.38624 4.38624 -180 1 0 4.39 327.48 L57.02 327.48 A4.38484 4.38484 -180 0 0
+							 61.41 323.1 L61.41 266.08 L65.79 266.08 A4.38624 4.38624 -180 1 0 65.79 257.3 L13.16 257.3 A4.38484
+							 4.38484 -180 0 0 8.77 261.69 L8.77 318.71" class="st11"/>
+				<path d="M8.77 318.71 L8.77 323.1" class="st11"/>
+				<path d="M13.16 266.08 L65.79 266.08" class="st11"/>
+				<path d="M17.54 261.69 A4.38484 4.38484 -180 0 0 13.16 257.3" class="st11"/>
+				<text x="13.31" y="287.78" class="st12" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Issue with: <tspan
+							x="19.38" dy="1.2em" class="st3">Feature </tspan><tspan x="18.52" dy="1.2em" class="st3">Request</tspan></text>			</g>
+			<g id="shape290-206" v:mID="290" v:groupContext="shape">
+				<title>Tabelle.290</title>
+				<v:userDefs>
+					<v:ud v:nameU="ScrollDia" v:prompt="" v:val="VT0(0.14763779527559):24"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(1)"/>
+					<v:ud v:nameU="ScrollDia" v:prompt="" v:val="VT0(0.12183994006985):1"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#4672c4)"/>
+				</v:userDefs>
+				<path d="M8.77 323.1 L4.39 323.1 A2.19312 2.19312 -180 0 0 4.39 318.71 A4.38624 4.38624 -180 1 0 4.39 327.48 A4.38484
+							 4.38484 -180 0 0 8.77 323.1 ZM17.54 261.69 L13.16 261.69 A2.19312 2.19312 -180 0 0 13.16 266.08 A4.38484
+							 4.38484 -180 0 0 17.54 261.69 Z" class="st13"/>
+			</g>
+		</g>
+		<g id="shape291-209" v:mID="291" v:groupContext="shape" transform="translate(104.901,-0.75)">
+			<title>Akteur.291</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M6.8 327.48 L6.8 292.05 L6.8 306.22 L0 306.22 L0 277.88 L3.4 274.33 L30.61 274.33 L34.02 277.88 L34.02 306.22
+						 L27.21 306.22 L27.21 292.05 L27.21 327.48 L17.01 327.48 L17.01 299.14 L17.01 327.48 L6.8 327.48 ZM24.09
+						 263.7 A7.08661 7.08661 -180 1 0 9.92 263.7 A7.08661 7.08661 -180 1 0 24.09 263.7 Z" class="st9"/>
+		</g>
+		<g id="group292-211" transform="translate(-233.922,257.64) rotate(-90) scale(-1,1)" v:mID="292" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="ScrollDia" v:prompt="" v:val="VT0(0.14763779527559):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ScrollDia" v:prompt="" v:val="VT0(0.16113249916344):1"/>
+			</v:userDefs>
+			<title>Horizontales Scrollen</title>
+			<desc>Responsibility: Repository Janitor</desc>
+			<g id="shape292-212" v:mID="292" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="33.6614" cy="286.879" width="81.22" height="44.1198" transform="rotate(90)"/>
+				<path d="M11.6 315.88 L5.8 315.88 A5.80077 5.80077 -180 1 0 5.8 327.48 L49.92 327.48 A5.79892 5.79892 -180 0 0 55.72
+							 321.68 L55.72 246.27 L61.52 246.27 A5.80077 5.80077 -180 0 0 61.52 234.67 L17.4 234.67 A5.79892 5.79892
+							 -180 0 0 11.6 240.47 L11.6 315.88 Z" class="st10"/>
+				<path d="M11.6 315.88 L5.8 315.88 A5.80077 5.80077 -180 1 0 5.8 327.48 L49.92 327.48 A5.79892 5.79892 -180 0 0 55.72
+							 321.68 L55.72 246.27 L61.52 246.27 A5.80077 5.80077 -180 0 0 61.52 234.67 L17.4 234.67 A5.79892 5.79892
+							 -180 0 0 11.6 240.47 L11.6 315.88" class="st11"/>
+				<path d="M11.6 315.88 L11.6 321.68" class="st11"/>
+				<path d="M17.4 246.27 L61.52 246.27" class="st11"/>
+				<path d="M23.2 240.47 A5.79892 5.79892 -180 0 0 17.4 234.67" class="st11"/>
+				<text x="257.38" y="24.66" transform="rotate(-90) scale(-1,1)" class="st12" v:langID="1031"><v:paragraph
+							v:horizAlign="1"/><v:tabList/>Responsibility: <tspan x="264.99" dy="1.2em" class="st3">Repository </tspan><tspan
+							x="273.06" dy="1.2em" class="st3">Janitor</tspan></text>			</g>
+			<g id="shape293-222" v:mID="293" v:groupContext="shape">
+				<title>Tabelle.293</title>
+				<v:userDefs>
+					<v:ud v:nameU="ScrollDia" v:prompt="" v:val="VT0(0.14763779527559):24"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(1)"/>
+					<v:ud v:nameU="ScrollDia" v:prompt="" v:val="VT0(0.16113249916344):1"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#4672c4)"/>
+				</v:userDefs>
+				<path d="M11.6 321.68 L5.8 321.68 A2.90038 2.90038 -180 0 0 5.8 315.88 A5.80077 5.80077 -180 1 0 5.8 327.48 A5.79892
+							 5.79892 -180 0 0 11.6 321.68 ZM23.2 240.47 L17.4 240.47 A2.90038 2.90038 -180 0 0 17.4 246.27 A5.79892
+							 5.79892 -180 0 0 23.2 240.47 Z" class="st13"/>
+			</g>
+		</g>
+	</g>
+</svg>
