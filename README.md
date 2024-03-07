@@ -13,12 +13,13 @@ https://docs.github.com/en/get-started/learning-about-github/github-glossary
 
 ![Version Control Process](src/VersionControl_Why_2.svg)
 
+- Setup a team
 - Setup a repository
   - Wiki
   - Discussions
 - Setup a project and link it to the repository
   - Use only one of the following: board, roadmap, table
-- Plan your project by creating issues and setting them up within the project
+- Plan your project by starting discussions, creating issues and setting them up within the project
 - Get yourself a team of people and set them up as commiters, reviewers etc.
 - Start: Loop
   - Have your team pull issues
