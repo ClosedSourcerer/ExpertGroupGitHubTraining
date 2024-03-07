@@ -171,9 +171,13 @@ https://code.visualstudio.com/
 
 -  Lets have a look at the new Network graph
   -  https://github.com/ClosedSourcerer/ExpertGroupGitHubTraining/network  
-- Lets create a repository within catena-x ev
+- Lets create two new repository within catena-x ev
   - https://github.com/orgs/catenax-eV/repositories
+    - DCM Expert Group
+    - DCM Standard
 - Lets create a new team within catena-X ev
   - https://github.com/orgs/catenax-eV/teams
+    - DCM Expert Group
 - Lets create a new project within catena-x ev
   - https://github.com/orgs/catenax-eV/projects 
+    - DCM Expert Group
