@@ -200,10 +200,9 @@ https://code.visualstudio.com/
 
 -  Lets have a look at the new Network graph
   -  https://github.com/ClosedSourcerer/ExpertGroupGitHubTraining/network  
-- Lets create two new repository within catena-x ev
-  - https://github.com/orgs/catenax-eV/repositories
-    - DCM Expert Group
-    - DCM Standard
+- Lets create a branch we can work on
+  - https://github.com/catenax-eV/product-standardization-prod/branches
+    - DCM 24.08 Release Candidate
 - Lets create a new team within catena-X ev
   - https://github.com/orgs/catenax-eV/teams
     - DCM Expert Group
