@@ -104,17 +104,27 @@ https://docs.github.com/en/get-started/learning-about-github/github-glossary
 
 ![Project Overview](src/Project_Overview.jpg)
 
+- You only need one project
+- Projects support multiple views
+- Projects support workflows
+
 ### Table
 
 ![Project Table](src/Project_Table.jpg)
+
+- Have a detailed view of multiple items at once, including custom fields
 
 ### Board
 
 ![Project Board](src/Project_Board.jpg)
 
+- Transiton items through status, akin to Kanban
+
 ### Roadmap
 
 ![Project Roadmap](src/Project_Roadmap.jpg)
+
+- Plan items on a timeline, using Start/End Dates or predefined Iterations
 
 ## Local Toolchain
 
