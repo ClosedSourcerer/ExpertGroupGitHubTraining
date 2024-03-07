@@ -126,6 +126,19 @@ https://docs.github.com/en/get-started/learning-about-github/github-glossary
 
 - Plan items on a timeline, using Start/End Dates or predefined Iterations
 
+## Discussions
+
+- ![Discussions](src/Discussions.jpg)
+
+- Announcements
+- General
+- Ideas
+- Polls
+- Q&A
+- Show and Tell
+
+- Ability to create Issues from the Discussion!
+
 ## Local Toolchain
 
 ### Version Control System
