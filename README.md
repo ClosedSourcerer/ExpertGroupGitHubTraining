@@ -128,7 +128,7 @@ https://docs.github.com/en/get-started/learning-about-github/github-glossary
 
 ## Discussions
 
-- ![Discussions](src/Discussions.jpg)
+![Discussions](src/Discussions.jpg)
 
 - Announcements
 - General
@@ -152,3 +152,8 @@ https://desktop.github.com/
 #### Visual Studio Code
 
 https://code.visualstudio.com/
+
+## Conclude Training
+
+-  Lets have a look at the new Network graph
+-  https://github.com/ClosedSourcerer/ExpertGroupGitHubTraining/network  
