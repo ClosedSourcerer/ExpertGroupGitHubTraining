@@ -145,13 +145,38 @@ https://docs.github.com/en/get-started/learning-about-github/github-glossary
 
 ![File_Preview](src/File_Preview.jpg)
 
+- Have a look at how GitHub is going to render this file
+  - Image support
+  - Latex support
+  - Markdown support
+
+  **The Cauchy-Schwarz Inequality**
+
+```math
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+```
+
 ### Code 
 
 ![File_Code](src/File_Code.jpg)
 
+- Have a look at tha actual file content
+  - This is also the view the markdown files are edited in
+  - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax 
+- Click on the line number to
+  - Open a new issue
+  - Open a new discussion
+  - Switch to GIT blame
+
 ### Blame
 
 ![File_Blame](src/File_Blame.jpg)
+
+- Have a look at which commit made which lines
+- Use this view to find out which change made the document as it currently is
+- Click on the line number to
+  - Open a new issue
+  - Open a new discussion
 
 ## Local Toolchain
 
