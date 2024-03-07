@@ -139,6 +139,20 @@ https://docs.github.com/en/get-started/learning-about-github/github-glossary
 
 - Ability to create Issues from the Discussion!
 
+## View a File
+
+### Preview
+
+![File_Preview](src/File_Preview.jpg)
+
+### Code 
+
+![File_Code](src/File_Code.jpg)
+
+### Blame
+
+![File_Blame](src/File_Blame.jpg)
+
 ## Local Toolchain
 
 ### Version Control System
