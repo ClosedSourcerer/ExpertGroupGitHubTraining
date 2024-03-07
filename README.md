@@ -51,6 +51,7 @@ https://docs.github.com/en/get-started/learning-about-github/github-glossary
     - used to be called trunk
 - If you create a new branch you must choose an existing branch as the basis for the new one.
 - Better to only create branches from main and also merge them back only into main
+- Never merge main into another branch
 - A branch is a parallel version of a repository. It is contained within the repository, but does not affect the primary or main branch allowing you to work freely without disrupting the "live" version. When you've made the changes you want to make, you can merge your branch back into the main branch to publish your changes. 
 
 ## Commits
@@ -63,7 +64,8 @@ https://docs.github.com/en/get-started/learning-about-github/github-glossary
 ## Merge
 
 - Merges apply changes from one branch into another branch
-- We merge vua pull requests
+- We merge via pull requests
+- Never merge main into another branch
 - Merging takes the changes from one branch (in the same repository or from a fork), and applies them into another. This often happens as a "pull request" (which can be thought of as a request to merge), or via the command line. A merge can be done through a pull request via the GitHub.com web interface if there are no conflicting changes, or can always be done via the command line.
 
 ## Merge conflict
@@ -89,6 +91,14 @@ https://docs.github.com/en/get-started/learning-about-github/github-glossary
 ## Issues
 
 ![Issue_Overview](src/Issue_Overview.jpg)
+
+![Issue_Single](src/Issue_Single.jpg)
+
+- Create Issues
+  - Assign them to projects
+  - Assign them to users
+  - Create a Branch directly from an issue
+
 
 ## Projects
 
