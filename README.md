@@ -18,7 +18,10 @@ https://docs.github.com/en/get-started/learning-about-github/github-glossary
   - Wiki
   - Discussions
 - Setup a project and link it to the repository
-  - Use only one of the following: board, roadmap, table
+  - Setup your views:
+    - board
+    - roadmap
+    - table
 - Plan your project by starting discussions, creating issues and setting them up within the project
 - Get yourself a team of people and set them up as commiters, reviewers etc.
 - Start: Loop
