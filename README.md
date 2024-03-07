@@ -170,4 +170,10 @@ https://code.visualstudio.com/
 ## Conclude Training
 
 -  Lets have a look at the new Network graph
--  https://github.com/ClosedSourcerer/ExpertGroupGitHubTraining/network  
+  -  https://github.com/ClosedSourcerer/ExpertGroupGitHubTraining/network  
+- Lets create a repository within catena-x ev
+  - https://github.com/orgs/catenax-eV/repositories
+- Lets create a new team within catena-X ev
+  - https://github.com/orgs/catenax-eV/teams
+- Lets create a new project within catena-x ev
+  - https://github.com/orgs/catenax-eV/projects 
