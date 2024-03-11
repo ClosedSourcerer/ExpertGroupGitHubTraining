@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generiert durch Microsoft Visio, SVG Export Organisation.svg Zeichenblatt-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.2137in" height="11.5558in"
+		viewBox="0 0 807.39 832.021" xml:space="preserve" color-interpolation-filters="sRGB" class="st26">
+	<v:documentProperties v:langID="1031" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#70ad47;fill-opacity:0;stroke:#c7c8c8;stroke-width:0.72}
+		.st2 {fill:#70ad47;stroke:#c7c8c8;stroke-width:0.72}
+		.st3 {fill:#feffff;font-family:Calibri;font-size:1.33333em}
+		.st4 {fill:#3c63ac;fill-opacity:0}
+		.st5 {stroke:#30518f;stroke-width:0.75;visibility:hidden}
+		.st6 {fill:url(#grad0-14);stroke:#61973d;stroke-width:0.75}
+		.st7 {fill:url(#grad0-18);stroke:#61973d;stroke-width:0.75}
+		.st8 {fill:#61973d;font-family:Calibri;font-size:1.00001em}
+		.st9 {fill:#3c63ac;stroke:#30518f;stroke-width:0.75;visibility:hidden}
+		.st10 {fill:#62983d;font-family:Calibri;font-size:1.00001em}
+		.st11 {fill:#ffffff;stroke:#ed7d31;stroke-width:0.75}
+		.st12 {fill:#ed7d31;font-family:Calibri;font-size:0.833336em}
+		.st13 {fill:#4672c4;stroke:#c7c8c8;stroke-width:0.25}
+		.st14 {fill:#feffff;font-family:Calibri;font-size:0.833336em}
+		.st15 {font-size:1em}
+		.st16 {marker-end:url(#mrkr4-112);stroke:#ed7d31;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st17 {fill:#ed7d31;fill-opacity:1;stroke:#ed7d31;stroke-opacity:1;stroke-width:0.52631578947368}
+		.st18 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st19 {fill:#d06d29;font-family:Calibri;font-size:0.666664em}
+		.st20 {marker-end:url(#mrkr4-120);stroke:#4672c4;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st21 {fill:#4672c4;fill-opacity:1;stroke:#4672c4;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st22 {fill:#3c63ac;font-family:Calibri;font-size:0.666664em}
+		.st23 {marker-end:url(#mrkr4-135);stroke:#ed7d31;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st24 {fill:#ed7d31;fill-opacity:1;stroke:#ed7d31;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st25 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st26 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-14" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+			<stop offset="0" stop-color="#ebf1e8" stop-opacity="0"/>
+			<stop offset="0.24" stop-color="#f5f8f4" stop-opacity="0"/>
+			<stop offset="0.54" stop-color="#feffff" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient id="grad0-18" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+			<stop offset="0" stop-color="#ebf1e8" stop-opacity="1"/>
+			<stop offset="0.24" stop-color="#f5f8f4" stop-opacity="1"/>
+			<stop offset="0.54" stop-color="#feffff" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-112" class="st17" v:arrowType="4" v:arrowSize="1" v:setback="3.8" refX="-3.8" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-1.9,-1.9) "/>
+		</marker>
+		<marker id="mrkr4-120" class="st21" v:arrowType="4" v:arrowSize="2" v:setback="7.04" refX="-7.04" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-3.52,-3.52) "/>
+		</marker>
+		<marker id="mrkr4-135" class="st24" v:arrowType="4" v:arrowSize="2" v:setback="7.04" refX="-7.04" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Zeichenblatt-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Verbinder" v:index="0"/>
+		<g id="group5-1" transform="translate(0.75,-0.75)" v:mID="5" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(CFF Container;DoNotContain)"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visDirection" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT4(CFF List)"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(xfunc_m.vss)"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingText" v:prompt=""/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CFFVertical" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="numLanes" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDMembersOnHiddenLayer" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="visCFFHeadingPos" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="HeadingSpan" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HeadingAlign" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+				<v:ud v:nameU="visShowTitle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visShowPhase" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visMargins" v:prompt="" v:val="VT0(0.29527559055118):24"/>
+				<v:ud v:nameU="visAutoExpand" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="numLanes" v:prompt="" v:val="VT0(7):26"/>
+				<v:ud v:nameU="visShowTitle" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<title>CFF-Container</title>
+			<g id="shape6-2" v:mID="6" v:groupContext="shape">
+				<title>Tabelle.6</title>
+				<v:userDefs>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="CFFStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="FillForegndTrans" v:prompt="" v:val="VT0(0.8):27"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+				</v:userDefs>
+				<rect x="0" y="1.47" width="805.89" height="830.551" class="st1"/>
+			</g>
+			<g id="shape7-4" v:mID="7" v:groupContext="shape" transform="translate(0,-802.205)">
+				<title>Tabelle.7</title>
+				<desc>DCM Export Group Working Model</desc>
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
+					<v:ud v:nameU="msvSDContainerHeadingEdge" v:prompt="" v:val="VT4(Bottom)"/>
+					<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HTxtMargin" v:prompt="" v:val="VT0(0.059055118110236):24"/>
+					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="InsetY" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="InsetX" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Inset" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="scale" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="GridRounding" v:prompt="" v:val="VT0(0.19685039370079):24"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="402.945" cy="817.848" width="805.89" height="28.3465"/>
+				<path d="M0 832.02 L805.89 832.02 L805.89 803.67 L0 803.67 L0 832.02 Z" class="st2"/>
+				<text x="4" y="822.65" class="st3" v:langID="1031"><v:paragraph/><v:tabList/>DCM Export Group Working Model</text>			</g>
+		</g>
+		<g id="shape8-7" v:mID="8" v:groupContext="shape" transform="translate(0.75,-0.75)">
+			<title>Verantwortlichkeitsbereichsliste</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(CFF List;DoNotContain)"/>
+				<v:ud v:nameU="msvSDListRequiredCategories" v:prompt="" v:val="VT4(Swimlane)"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt="" v:val="VT4(CFF Container;CFF List;Phase;NonCFF)"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDListSpacing" v:prompt="" v:val="VT0(0):24"/>
+				<v:ud v:nameU="msvSDListDirection" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="msvSDListAlignment" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDListItemMaster" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDListNoReorder" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDMembersOnHiddenLayer" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(xfunc_m.vss)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDListItemMaster" v:prompt="" v:val="VT0(254):26"/>
+				<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+			</v:userDefs>
+			<rect x="0" y="43.9897" width="805.89" height="788.031" class="st4"/>
+			<rect x="0" y="43.9897" width="805.89" height="788.031" class="st5"/>
+		</g>
+		<g id="group2-10" transform="translate(0.75,-686.734)" v:mID="2" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Swimlane;DoNotContain)"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.29527559055118):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visDirection" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt=""
+						v:val="VT4(CFF Container;CFF List;Swimlane;Phase;NonCFF)"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(xfunc_m.vss)"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingText" v:prompt="" v:val="VT4(Funktion)"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDMembersOnHiddenLayer" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="SwimlaneListGUID" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visCFFSettings" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="visCFFSingleLaneShowAll" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.010416666666667):3"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.29527559055118):24"/>
+				<v:ud v:nameU="visDirection" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingText" v:prompt="" v:val="VT4(Organisation)"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SwimlaneListGUID" v:prompt="" v:val="VT15({5E8CA1EA-A25B-4384-90B9-89E9C722A67E}):41"/>
+				<v:ud v:nameU="visCFFSettings" v:prompt="" v:val="VT4(/stg1=1, /stg2=1, /stg3=1, /stg4=7, /stg5=0,2953, /stg6=0)"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.01):29"/>
+			</v:userDefs>
+			<title>Verantwortlichkeitsbereich</title>
+			<g id="shape3-11" v:mID="3" v:groupContext="shape">
+				<title>Tabelle.3</title>
+				<v:userDefs>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="CFFStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="FillForegndTrans" v:prompt="" v:val="VT0(1):27"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+				</v:userDefs>
+				<rect x="0" y="729.974" width="805.89" height="102.047" class="st6"/>
+			</g>
+			<g id="shape4-15" v:mID="4" v:groupContext="shape" transform="translate(-803.675,832.021) rotate(-90)">
+				<title>Tabelle.4</title>
+				<desc>Organisation</desc>
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
+					<v:ud v:nameU="msvSDContainerHeadingEdge" v:prompt="" v:val="VT4(Right)"/>
+					<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(3):26"/>
+					<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="HTxtMargin" v:prompt="" v:val="VT0(0.059055118110236):24"/>
+					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="InsetY" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="InsetX" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Inset" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="CFFStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(3):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="51.0236" cy="817.848" width="102.05" height="28.3465"/>
+				<path d="M0 832.02 L102.05 832.02 L102.05 803.67 L0 803.67 L0 832.02 Z" class="st7"/>
+				<text x="19.81" y="821.45" class="st8" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Organisation</text>			</g>
+		</g>
+		<g id="group13-20" transform="translate(0.75,-584.687)" v:mID="13" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Swimlane;DoNotContain)"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.29527559055118):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visDirection" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt=""
+						v:val="VT4(CFF Container;CFF List;Swimlane;Phase;NonCFF)"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(xfunc_m.vss)"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingText" v:prompt="" v:val="VT4(Funktion)"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDMembersOnHiddenLayer" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="SwimlaneListGUID" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visCFFSettings" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="visCFFSingleLaneShowAll" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.010416666666667):3"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.29527559055118):24"/>
+				<v:ud v:nameU="visDirection" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingText" v:prompt="" v:val="VT4(Teams)"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SwimlaneListGUID" v:prompt="" v:val="VT15({5E8CA1EA-A25B-4384-90B9-89E9C722A67E}):41"/>
+				<v:ud v:nameU="visCFFSettings" v:prompt="" v:val="VT4(/stg1=1, /stg2=1, /stg3=1, /stg4=7, /stg5=0,2953, /stg6=0)"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.01):29"/>
+			</v:userDefs>
+			<title>Verantwortlichkeitsbereich.13</title>
+			<g id="shape14-21" v:mID="14" v:groupContext="shape">
+				<title>Tabelle.14</title>
+				<v:userDefs>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="CFFStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="FillForegndTrans" v:prompt="" v:val="VT0(1):27"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+				</v:userDefs>
+				<rect x="0" y="729.974" width="805.89" height="102.047" class="st6"/>
+			</g>
+			<g id="shape15-24" v:mID="15" v:groupContext="shape" transform="translate(-803.675,832.021) rotate(-90)">
+				<title>Tabelle.15</title>
+				<desc>Teams</desc>
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
+					<v:ud v:nameU="msvSDContainerHeadingEdge" v:prompt="" v:val="VT4(Right)"/>
+					<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(3):26"/>
+					<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="HTxtMargin" v:prompt="" v:val="VT0(0.059055118110236):24"/>
+					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="InsetY" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="InsetX" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Inset" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="CFFStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(3):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="51.0236" cy="817.848" width="102.05" height="28.3465"/>
+				<path d="M0 832.02 L102.05 832.02 L102.05 803.67 L0 803.67 L0 832.02 Z" class="st7"/>
+				<text x="35.1" y="821.45" class="st8" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Teams</text>			</g>
+		</g>
+		<g id="group17-28" transform="translate(0.75,-482.64)" v:mID="17" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Swimlane;DoNotContain)"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.29527559055118):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visDirection" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt=""
+						v:val="VT4(CFF Container;CFF List;Swimlane;Phase;NonCFF)"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(xfunc_m.vss)"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingText" v:prompt="" v:val="VT4(Funktion)"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDMembersOnHiddenLayer" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="SwimlaneListGUID" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visCFFSettings" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="visCFFSingleLaneShowAll" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.010416666666667):3"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.29527559055118):24"/>
+				<v:ud v:nameU="visDirection" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingText" v:prompt="" v:val="VT4(Repository)"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SwimlaneListGUID" v:prompt="" v:val="VT15({5E8CA1EA-A25B-4384-90B9-89E9C722A67E}):41"/>
+				<v:ud v:nameU="visCFFSettings" v:prompt="" v:val="VT4(/stg1=1, /stg2=1, /stg3=1, /stg4=7, /stg5=0,2953, /stg6=0)"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.01):29"/>
+			</v:userDefs>
+			<title>Verantwortlichkeitsbereich.17</title>
+			<g id="shape18-29" v:mID="18" v:groupContext="shape">
+				<title>Tabelle.18</title>
+				<v:userDefs>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="CFFStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="FillForegndTrans" v:prompt="" v:val="VT0(1):27"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+				</v:userDefs>
+				<rect x="0" y="729.974" width="805.89" height="102.047" class="st6"/>
+			</g>
+			<g id="shape19-32" v:mID="19" v:groupContext="shape" transform="translate(-803.675,832.021) rotate(-90)">
+				<title>Tabelle.19</title>
+				<desc>Repository</desc>
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
+					<v:ud v:nameU="msvSDContainerHeadingEdge" v:prompt="" v:val="VT4(Right)"/>
+					<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(3):26"/>
+					<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="HTxtMargin" v:prompt="" v:val="VT0(0.059055118110236):24"/>
+					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="InsetY" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="InsetX" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Inset" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="CFFStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(3):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="51.0236" cy="817.848" width="102.05" height="28.3465"/>
+				<path d="M0 832.02 L102.05 832.02 L102.05 803.67 L0 803.67 L0 832.02 Z" class="st7"/>
+				<text x="24.76" y="821.45" class="st8" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Repository</text>			</g>
+		</g>
+		<g id="group20-36" transform="translate(0.75,-306.892)" v:mID="20" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Swimlane;DoNotContain)"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.29527559055118):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visDirection" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt=""
+						v:val="VT4(CFF Container;CFF List;Swimlane;Phase;NonCFF)"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(xfunc_m.vss)"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingText" v:prompt="" v:val="VT4(Funktion)"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDMembersOnHiddenLayer" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="SwimlaneListGUID" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visCFFSettings" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="visCFFSingleLaneShowAll" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.010416666666667):3"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.29527559055118):24"/>
+				<v:ud v:nameU="visDirection" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingText" v:prompt="" v:val="VT4(Branches)"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SwimlaneListGUID" v:prompt="" v:val="VT15({5E8CA1EA-A25B-4384-90B9-89E9C722A67E}):41"/>
+				<v:ud v:nameU="visCFFSettings" v:prompt="" v:val="VT4(/stg1=1, /stg2=1, /stg3=1, /stg4=7, /stg5=0,2953, /stg6=0)"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.01):29"/>
+			</v:userDefs>
+			<title>Verantwortlichkeitsbereich.20</title>
+			<g id="shape21-37" v:mID="21" v:groupContext="shape">
+				<title>Tabelle.21</title>
+				<v:userDefs>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="CFFStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="FillForegndTrans" v:prompt="" v:val="VT0(1):27"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+				</v:userDefs>
+				<rect x="0" y="656.273" width="805.89" height="175.748" class="st6"/>
+			</g>
+			<g id="shape22-40" v:mID="22" v:groupContext="shape" transform="translate(-803.675,832.021) rotate(-90)">
+				<title>Tabelle.22</title>
+				<desc>Branches</desc>
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
+					<v:ud v:nameU="msvSDContainerHeadingEdge" v:prompt="" v:val="VT4(Right)"/>
+					<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(3):26"/>
+					<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="HTxtMargin" v:prompt="" v:val="VT0(0.059055118110236):24"/>
+					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="InsetY" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="InsetX" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Inset" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="CFFStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(3):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="87.874" cy="817.848" width="175.75" height="28.3465"/>
+				<path d="M0 832.02 L175.75 832.02 L175.75 803.67 L0 803.67 L0 832.02 Z" class="st7"/>
+				<text x="65.47" y="821.45" class="st8" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Branches</text>			</g>
+		</g>
+		<g id="group23-44" transform="translate(0.75,-204.844)" v:mID="23" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Swimlane;DoNotContain)"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.29527559055118):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visDirection" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt=""
+						v:val="VT4(CFF Container;CFF List;Swimlane;Phase;NonCFF)"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(xfunc_m.vss)"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingText" v:prompt="" v:val="VT4(Funktion)"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDMembersOnHiddenLayer" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="SwimlaneListGUID" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visCFFSettings" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="visCFFSingleLaneShowAll" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.010416666666667):3"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.29527559055118):24"/>
+				<v:ud v:nameU="visDirection" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingText" v:prompt="" v:val="VT4(Project)"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SwimlaneListGUID" v:prompt="" v:val="VT15({5E8CA1EA-A25B-4384-90B9-89E9C722A67E}):41"/>
+				<v:ud v:nameU="visCFFSettings" v:prompt="" v:val="VT4(/stg1=1, /stg2=1, /stg3=1, /stg4=7, /stg5=0,2953, /stg6=0)"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.01):29"/>
+			</v:userDefs>
+			<title>Verantwortlichkeitsbereich.23</title>
+			<g id="shape24-45" v:mID="24" v:groupContext="shape">
+				<title>Tabelle.24</title>
+				<v:userDefs>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="CFFStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="FillForegndTrans" v:prompt="" v:val="VT0(1):27"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+				</v:userDefs>
+				<rect x="0" y="729.974" width="805.89" height="102.047" class="st6"/>
+			</g>
+			<g id="shape25-48" v:mID="25" v:groupContext="shape" transform="translate(-803.675,832.021) rotate(-90)">
+				<title>Tabelle.25</title>
+				<desc>Project</desc>
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
+					<v:ud v:nameU="msvSDContainerHeadingEdge" v:prompt="" v:val="VT4(Right)"/>
+					<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(3):26"/>
+					<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="HTxtMargin" v:prompt="" v:val="VT0(0.059055118110236):24"/>
+					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="InsetY" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="InsetX" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Inset" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="CFFStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(3):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="51.0236" cy="817.848" width="102.05" height="28.3465"/>
+				<path d="M0 832.02 L102.05 832.02 L102.05 803.67 L0 803.67 L0 832.02 Z" class="st7"/>
+				<text x="33.7" y="821.45" class="st8" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Project</text>			</g>
+		</g>
+		<g id="group28-52" transform="translate(0.75,-102.797)" v:mID="28" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Swimlane;DoNotContain)"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.29527559055118):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visDirection" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt=""
+						v:val="VT4(CFF Container;CFF List;Swimlane;Phase;NonCFF)"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(xfunc_m.vss)"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingText" v:prompt="" v:val="VT4(Funktion)"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDMembersOnHiddenLayer" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="SwimlaneListGUID" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visCFFSettings" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="visCFFSingleLaneShowAll" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.010416666666667):3"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.29527559055118):24"/>
+				<v:ud v:nameU="visDirection" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingText" v:prompt="" v:val="VT4(Users)"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SwimlaneListGUID" v:prompt="" v:val="VT15({5E8CA1EA-A25B-4384-90B9-89E9C722A67E}):41"/>
+				<v:ud v:nameU="visCFFSettings" v:prompt="" v:val="VT4(/stg1=1, /stg2=1, /stg3=1, /stg4=7, /stg5=0,2953, /stg6=0)"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.01):29"/>
+			</v:userDefs>
+			<title>Verantwortlichkeitsbereich.28</title>
+			<g id="shape29-53" v:mID="29" v:groupContext="shape">
+				<title>Tabelle.29</title>
+				<v:userDefs>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="CFFStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="FillForegndTrans" v:prompt="" v:val="VT0(1):27"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+				</v:userDefs>
+				<rect x="0" y="729.974" width="805.89" height="102.047" class="st6"/>
+			</g>
+			<g id="shape30-56" v:mID="30" v:groupContext="shape" transform="translate(-803.675,832.021) rotate(-90)">
+				<title>Tabelle.30</title>
+				<desc>Users</desc>
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
+					<v:ud v:nameU="msvSDContainerHeadingEdge" v:prompt="" v:val="VT4(Right)"/>
+					<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(3):26"/>
+					<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="HTxtMargin" v:prompt="" v:val="VT0(0.059055118110236):24"/>
+					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="InsetY" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="InsetX" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Inset" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="CFFStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(3):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="51.0236" cy="817.848" width="102.05" height="28.3465"/>
+				<path d="M0 832.02 L102.05 832.02 L102.05 803.67 L0 803.67 L0 832.02 Z" class="st7"/>
+				<text x="37.4" y="821.45" class="st8" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Users</text>			</g>
+		</g>
+		<g id="group48-60" transform="translate(0.75,-0.75)" v:mID="48" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Swimlane;DoNotContain)"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.29527559055118):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visDirection" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt=""
+						v:val="VT4(CFF Container;CFF List;Swimlane;Phase;NonCFF)"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(xfunc_m.vss)"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingText" v:prompt="" v:val="VT4(Funktion)"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDMembersOnHiddenLayer" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="SwimlaneListGUID" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visCFFSettings" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="visCFFSingleLaneShowAll" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.010416666666667):3"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.29527559055118):24"/>
+				<v:ud v:nameU="visDirection" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingText" v:prompt="" v:val="VT4(Issues)"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SwimlaneListGUID" v:prompt="" v:val="VT15({5E8CA1EA-A25B-4384-90B9-89E9C722A67E}):41"/>
+				<v:ud v:nameU="visCFFSettings" v:prompt="" v:val="VT4(/stg1=1, /stg2=1, /stg3=1, /stg4=7, /stg5=0,2953, /stg6=0)"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.01):29"/>
+			</v:userDefs>
+			<title>Verantwortlichkeitsbereich.48</title>
+			<g id="shape49-61" v:mID="49" v:groupContext="shape">
+				<title>Tabelle.49</title>
+				<v:userDefs>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="CFFStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="FillForegndTrans" v:prompt="" v:val="VT0(1):27"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+				</v:userDefs>
+				<rect x="0" y="729.974" width="805.89" height="102.047" class="st6"/>
+			</g>
+			<g id="shape50-64" v:mID="50" v:groupContext="shape" transform="translate(-803.675,832.021) rotate(-90)">
+				<title>Tabelle.50</title>
+				<desc>Issues</desc>
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
+					<v:ud v:nameU="msvSDContainerHeadingEdge" v:prompt="" v:val="VT4(Right)"/>
+					<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(3):26"/>
+					<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="HTxtMargin" v:prompt="" v:val="VT0(0.059055118110236):24"/>
+					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="InsetY" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="InsetX" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Inset" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="CFFStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(3):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="51.0236" cy="817.848" width="102.05" height="28.3465"/>
+				<path d="M0 832.02 L102.05 832.02 L102.05 803.67 L0 803.67 L0 832.02 Z" class="st7"/>
+				<text x="36.33" y="821.45" class="st8" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Issues</text>			</g>
+		</g>
+		<g id="shape9-68" v:mID="9" v:groupContext="shape" transform="translate(29.0965,-0.75)">
+			<title>Phasenliste</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT4(Phase)"/>
+				<v:ud v:nameU="msvSDListRequiredCategories" v:prompt="" v:val="VT4(Phase)"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(CFF List;DoNotContain)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDListSpacing" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDListDirection" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDListAlignment" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDListItemMaster" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDListNoReorder" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDMembersOnHiddenLayer" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.19685039370079):24"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(xfunc_m.vss)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<rect x="0" y="29.8165" width="777.543" height="802.205" class="st9"/>
+		</g>
+		<g id="group10-70" transform="translate(29.0965,-0.75)" v:mID="10" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Phase;DoNotContain)"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt=""
+						v:val="VT4(CFF Container;CFF List;Swimlane;Phase;NonCFF)"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.29527559055118):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDMembersOnHiddenLayer" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ListDirection" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visShowPhase" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(xfunc_m.vss)"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.010416666666667):3"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="CFFVertical" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.29527559055118):24"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="ListDirection" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visShowPhase" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.01):29"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="CFFVertical" v:prompt="" v:val="VT0(0):26"/>
+			</v:userDefs>
+			<title>Trennzeichen</title>
+			<g id="shape11-71" v:mID="11" v:groupContext="shape">
+				<title>Tabelle.11</title>
+				<v:userDefs>
+					<v:ud v:nameU="FlipX" v:prompt="" v:val="VT0(0):26"/>
+				</v:userDefs>
+			</g>
+			<g id="shape12-73" v:mID="12" v:groupContext="shape" transform="translate(-28.3465,-788.031)">
+				<title>Tabelle.12</title>
+				<desc>Phase</desc>
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="msvSDContainerHeadingEdge" v:prompt="" v:val="VT4(Bottom)"/>
+					<v:ud v:nameU="HAlign" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="SwimlaneHeadingSize" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+					<v:ud v:nameU="FirstHeadingExtend" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="SwimlaneHeadingSize" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+					<v:ud v:nameU="FirstHeadingExtend" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+				<v:textRect cx="402.945" cy="824.935" width="805.89" height="14.1732"/>
+				<rect x="0" y="817.848" width="805.89" height="14.1732" class="st7"/>
+				<text x="774.97" y="828.53" class="st10" v:langID="1031"><v:paragraph v:horizAlign="2"/><v:tabList/>Phase</text>			</g>
+		</g>
+		<g id="shape1-77" v:mID="1" v:groupContext="shape" transform="translate(392.356,-707.994)">
+			<title>Rechteck</title>
+			<desc>Catenax-ev</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:cal="0" v:val="VT4(Organisation)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="802.257" width="79.38" height="59.5276"/>
+			<rect x="0" y="772.494" width="79.3701" height="59.5276" class="st11"/>
+			<text x="17" y="805.26" class="st12" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Catenax-ev</text>		</g>
+		<g id="shape16-80" v:mID="16" v:groupContext="shape" transform="translate(704.167,-605.947)">
+			<title>Rechteck.16</title>
+			<desc>DCM-ExpertGroup</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:cal="0" v:val="VT4(Teams)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="802.257" width="79.38" height="59.5276"/>
+			<rect x="0" y="772.494" width="79.3701" height="59.5276" class="st13"/>
+			<text x="28.14" y="799.26" class="st14" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>DCM-<tspan x="13.76"
+						dy="1.2em" class="st15">ExpertGroup</tspan></text>		</g>
+		<g id="shape26-84" v:mID="26" v:groupContext="shape" transform="translate(148.577,-503.9)">
+			<title>Rechteck.26</title>
+			<desc>DCM-ExpertGroup</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:cal="0" v:val="VT4(Repository)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="802.257" width="79.38" height="59.5276"/>
+			<rect x="0" y="772.494" width="79.3701" height="59.5276" class="st13"/>
+			<text x="28.14" y="799.26" class="st14" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>DCM-<tspan x="13.76"
+						dy="1.2em" class="st15">ExpertGroup</tspan></text>		</g>
+		<g id="shape27-88" v:mID="27" v:groupContext="shape" transform="translate(148.577,-226.104)">
+			<title>Rechteck.27</title>
+			<desc>DCM-ExpertGroup</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:cal="0" v:val="VT4(Project)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="802.257" width="79.38" height="59.5276"/>
+			<rect x="0" y="772.494" width="79.3701" height="59.5276" class="st13"/>
+			<text x="28.14" y="799.26" class="st14" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>DCM-<tspan x="13.76"
+						dy="1.2em" class="st15">ExpertGroup</tspan></text>		</g>
+		<g id="shape31-92" v:mID="31" v:groupContext="shape" transform="translate(249.207,-124.057)">
+			<title>Rechteck.31</title>
+			<desc>ClosedSourcer</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:cal="0" v:val="VT4(Users)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="802.257" width="79.38" height="59.5276"/>
+			<rect x="0" y="772.494" width="79.3701" height="59.5276" class="st13"/>
+			<text x="10.52" y="805.26" class="st14" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>ClosedSourcer</text>		</g>
+		<g id="shape34-95" v:mID="34" v:groupContext="shape" transform="translate(594.541,-503.9)">
+			<title>Rechteck.34</title>
+			<desc>product-standardization-prod</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:cal="0" v:val="VT4(Repository)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="802.257" width="79.38" height="59.5276"/>
+			<rect x="0" y="772.494" width="79.3701" height="59.5276" class="st11"/>
+			<text x="22.1" y="793.26" class="st12" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>product-<tspan
+						x="6.51" dy="1.2em" class="st15">standardization</tspan>-<tspan x="30.05" dy="1.2em" class="st15">prod</tspan></text>		</g>
+		<g id="shape37-100" v:mID="37" v:groupContext="shape" transform="translate(595.033,-401.852)">
+			<title>Rechteck.37</title>
+			<desc>CX-0128-DemandandCapacityManagementDataExchange-v9.9.9</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:cal="0" v:val="VT4(Branches)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="802.257" width="79.38" height="59.5276"/>
+			<rect x="0" y="772.494" width="79.3701" height="59.5276" class="st11"/>
+			<text x="21.23" y="781.26" class="st12" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>CX-0128-<tspan
+						x="4.75" dy="1.2em" class="st15">DemandandCapa</tspan><tspan x="5.17" dy="1.2em" class="st15">cityManagement</tspan><tspan
+						x="9.4" dy="1.2em" class="st15">DataExchange</tspan>-<tspan x="27.3" dy="1.2em" class="st15">v9.9.9</tspan></text>		</g>
+		<g id="shape39-107" v:mID="39" v:groupContext="shape" v:layerMember="0" transform="translate(461.527,-707.994)">
+			<title>Dynamischer Verbinder</title>
+			<desc>owns</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="94.8891" cy="928.399" width="40" height="17.6036"/>
+			<path d="M0 832.02 L137.87 971.19" class="st16"/>
+			<rect v:rectContext="textBkgnd" x="86.2545" y="923.599" width="17.2694" height="9.59985" class="st18"/>
+			<text x="86.25" y="930.8" class="st19" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>owns</text>		</g>
+		<g id="shape40-115" v:mID="40" v:groupContext="shape" v:layerMember="0" transform="translate(471.726,-737.758)">
+			<title>Dynamischer Verbinder.40</title>
+			<desc>Consits of</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="172.205" cy="832.021" width="41.75" height="17.6036"/>
+			<path d="M0 832.02 L272.13 832.02 L272.13 897.26" class="st20"/>
+			<rect v:rectContext="textBkgnd" x="156.24" y="827.221" width="31.9296" height="9.59985" class="st18"/>
+			<text x="156.24" y="834.42" class="st22" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Consits of</text>		</g>
+		<g id="shape41-123" v:mID="41" v:groupContext="shape" v:layerMember="0" transform="translate(396.49,-707.994)">
+			<title>Dynamischer Verbinder.41</title>
+			<desc>owns</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-111.85" cy="922.73" width="40" height="17.6036"/>
+			<path d="M0 832.02 L-167.28 972.07" class="st20"/>
+			<rect v:rectContext="textBkgnd" x="-120.485" y="917.93" width="17.2694" height="9.59985" class="st18"/>
+			<text x="-120.49" y="925.13" class="st22" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>owns</text>		</g>
+		<g id="shape42-130" v:mID="42" v:groupContext="shape" v:layerMember="0" transform="translate(627.386,-503.9)">
+			<title>Dynamischer Verbinder.42</title>
+			<desc>Consists of</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="853.281" width="44.88" height="17.6036"/>
+			<path d="M6.84 832.02 L7.25 867.5" class="st23"/>
+			<rect v:rectContext="textBkgnd" x="-10.4425" y="848.481" width="35.0585" height="9.59985" class="st18"/>
+			<text x="-10.44" y="855.68" class="st19" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Consists of</text>		</g>
+		<g id="shape43-138" v:mID="43" v:groupContext="shape" transform="translate(451.884,-401.852)">
+			<title>Rechteck.43</title>
+			<desc>Main</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:cal="0" v:val="VT4(Branches)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="802.257" width="79.38" height="59.5276"/>
+			<rect x="0" y="772.494" width="79.3701" height="59.5276" class="st11"/>
+			<text x="29.24" y="805.26" class="st12" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Main</text>		</g>
+		<g id="shape44-141" v:mID="44" v:groupContext="shape" v:layerMember="0" transform="translate(594.541,-533.663)">
+			<title>Dynamischer Verbinder.44</title>
+			<desc>Consists of</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-87.6279" cy="832.021" width="44.88" height="17.6036"/>
+			<path d="M0 832.02 L-102.97 832.02 L-102.97 897.26" class="st23"/>
+			<rect v:rectContext="textBkgnd" x="-105.157" y="827.221" width="35.0585" height="9.59985" class="st25"/>
+			<text x="-105.16" y="834.42" class="st19" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Consists of</text>		</g>
+		<g id="shape45-148" v:mID="45" v:groupContext="shape" v:layerMember="0" transform="translate(743.852,-605.947)">
+			<title>Dynamischer Verbinder.45</title>
+			<desc>Consits of</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-215.211" cy="1288.4" width="41.75" height="17.6036"/>
+			<path d="M0 832.02 L0 1284.15 L-408.24 1284.15" class="st20"/>
+			<rect v:rectContext="textBkgnd" x="-231.176" y="1283.6" width="31.9296" height="9.59985" class="st18"/>
+			<text x="-231.18" y="1290.8" class="st22" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Consits of</text>		</g>
+		<g id="shape46-155" v:mID="46" v:groupContext="shape" v:layerMember="0" transform="translate(704.167,-635.711)">
+			<title>Dynamischer Verbinder.46</title>
+			<desc>Works with</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-294.094" cy="832.021" width="46.95" height="17.6036"/>
+			<path d="M0 832.02 L-168.67 832.02 A2.3622 2.3622 -180 0 0 -173.4 832.02 L-391.65 832.02 A2.3622 2.3622 -180 0 0 -396.38
+						 832.02 L-515.91 832.02 L-515.91 897.26" class="st20"/>
+			<rect v:rectContext="textBkgnd" x="-312.663" y="827.221" width="37.1365" height="9.59985" class="st25"/>
+			<text x="-312.66" y="834.42" class="st22" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Works with</text>		</g>
+		<g id="shape47-162" v:mID="47" v:groupContext="shape" v:layerMember="0" transform="translate(743.852,-635.711)">
+			<title>Dynamischer Verbinder.47</title>
+			<desc>Works with</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-246.155" cy="1211.86" width="46.95" height="17.6036"/>
+			<path d="M0 832.02 L0 1211.86 L-508.87 1211.86" class="st20"/>
+			<rect v:rectContext="textBkgnd" x="-264.723" y="1207.06" width="37.1365" height="9.59985" class="st18"/>
+			<text x="-264.72" y="1214.26" class="st22" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Works with</text>		</g>
+		<g id="shape51-169" v:mID="51" v:groupContext="shape" transform="translate(148.577,-22.0098)">
+			<title>Rechteck.51</title>
+			<desc>FeatureRequest</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:cal="0" v:val="VT4(Issues)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="802.257" width="79.38" height="59.5276"/>
+			<rect x="0" y="772.494" width="79.3701" height="59.5276" class="st13"/>
+			<text x="7.4" y="805.26" class="st14" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>FeatureRequest</text>		</g>
+		<g id="shape52-172" v:mID="52" v:groupContext="shape" transform="translate(148.577,-365.002)">
+			<title>Rechteck.52</title>
+			<desc>FeatureBranch</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:cal="0" v:val="VT4(Branches)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="802.257" width="79.38" height="59.5276"/>
+			<rect x="0" y="772.494" width="79.3701" height="59.5276" class="st13"/>
+			<text x="9.75" y="805.26" class="st14" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>FeatureBranch</text>		</g>
+		<g id="shape53-175" v:mID="53" v:groupContext="shape" v:layerMember="0" transform="translate(141.49,-51.7736)">
+			<title>Dynamischer Verbinder.53</title>
+			<desc>Creates</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-5.58538" cy="660.525" width="40" height="17.6036"/>
+			<path d="M7.09 832.02 L-5.59 832.02 L-5.59 489.03 L0.05 489.03" class="st20"/>
+			<rect v:rectContext="textBkgnd" x="-17.9134" y="655.725" width="24.6561" height="9.59985" class="st25"/>
+			<text x="-17.91" y="662.93" class="st22" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Creates</text>		</g>
+		<g id="shape54-182" v:mID="54" v:groupContext="shape" v:layerMember="0" transform="translate(181.175,-503.9)">
+			<title>Dynamischer Verbinder.54</title>
+			<desc>Consists of</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="871.706" width="44.88" height="17.6036"/>
+			<path d="M7.09 832.02 L7.09 904.35" class="st20"/>
+			<rect v:rectContext="textBkgnd" x="-10.4425" y="866.906" width="35.0585" height="9.59985" class="st18"/>
+			<text x="-10.44" y="874.11" class="st22" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Consists of</text>		</g>
+		<g id="shape55-189" v:mID="55" v:groupContext="shape" transform="translate(338.498,-365.002)">
+			<title>Rechteck.55</title>
+			<desc>Main</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:cal="0" v:val="VT4(Branches)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="802.257" width="79.38" height="59.5276"/>
+			<rect x="0" y="772.494" width="79.3701" height="59.5276" class="st13"/>
+			<text x="29.24" y="805.26" class="st14" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Main</text>		</g>
+		<g id="shape56-192" v:mID="56" v:groupContext="shape" v:layerMember="0" transform="translate(227.947,-533.663)">
+			<title>Dynamischer Verbinder.56</title>
+			<desc>Consists of</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="129.685" cy="832.021" width="44.88" height="17.6036"/>
+			<path d="M0 832.02 L150.24 832.02 L150.24 934.12" class="st20"/>
+			<rect v:rectContext="textBkgnd" x="112.156" y="827.221" width="35.0585" height="9.59985" class="st18"/>
+			<text x="112.16" y="834.42" class="st22" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Consists of</text>		</g>
+		<g id="shape57-199" v:mID="57" v:groupContext="shape" v:layerMember="0" transform="translate(227.947,-401.852)">
+			<title>Dynamischer Verbinder.57</title>
+			<desc>PR: Merge</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="55.2756" cy="839.108" width="43.6" height="17.6036"/>
+			<path d="M0 839.11 L103.51 839.11" class="st20"/>
+			<rect v:rectContext="textBkgnd" x="38.3852" y="834.308" width="33.781" height="9.59985" class="st18"/>
+			<text x="38.39" y="841.51" class="st22" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>PR: Merge</text>		</g>
+		<g id="shape58-206" v:mID="58" v:groupContext="shape" v:layerMember="0" transform="translate(378.183,-391.222)">
+			<title>Dynamischer Verbinder.58</title>
+			<desc>Manual Merge</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="131.811" cy="870.914" width="57.73" height="17.6036"/>
+			<path d="M0 828.48 L0 870.91 L256.54 870.91 L256.54 828.43" class="st20"/>
+			<rect v:rectContext="textBkgnd" x="107.856" y="866.114" width="47.9097" height="9.59985" class="st18"/>
+			<text x="107.86" y="873.31" class="st22" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Manual Merge</text>		</g>
+		<g id="shape59-213" v:mID="59" v:groupContext="shape" v:layerMember="0" transform="translate(743.852,-635.711)">
+			<title>Dynamischer Verbinder.59</title>
+			<desc>Works on</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-247.864" cy="1417.38" width="40.94" height="17.6036"/>
+			<path d="M0 832.02 L0 1415.96 L-508.87 1415.96" class="st20"/>
+			<rect v:rectContext="textBkgnd" x="-263.425" y="1412.58" width="31.1212" height="9.59985" class="st18"/>
+			<text x="-263.42" y="1419.78" class="st22" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Works on</text>		</g>
+		<g id="shape61-220" v:mID="61" v:groupContext="shape" v:layerMember="0" transform="translate(181.175,-81.5374)">
+			<title>Dynamischer Verbinder.61</title>
+			<desc>Managed via</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="759.738" width="51.56" height="17.6036"/>
+			<path d="M7.09 832.02 L7.09 694.49" class="st20"/>
+			<rect v:rectContext="textBkgnd" x="-13.7862" y="754.938" width="41.7458" height="9.59985" class="st18"/>
+			<text x="-13.79" y="762.14" class="st22" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Managed via</text>		</g>
+		<g id="shape65-227" v:mID="65" v:groupContext="shape" v:layerMember="0" transform="translate(595.033,-424.53)">
+			<title>Dynamischer Verbinder.65</title>
+			<desc>PR: Merge</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-31.8897" cy="824.935" width="43.6" height="17.6036"/>
+			<path d="M0 824.93 L-56.74 824.93" class="st23"/>
+			<rect v:rectContext="textBkgnd" x="-48.7802" y="820.135" width="33.781" height="9.59985" class="st25"/>
+			<text x="-48.78" y="827.33" class="st19" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>PR: Merge</text>		</g>
+	</g>
+</svg>
