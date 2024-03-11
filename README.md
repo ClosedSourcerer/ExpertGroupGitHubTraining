@@ -57,7 +57,7 @@ https://docs.github.com/en/get-started/learning-about-github/github-glossary
 - Better to only create branches from main and also merge them back only into main
 - Never merge main into another branch
 - You can branch a branch
-  - We will use this to create a "ReleaseCandidate" branch and then create "Feature" branches from the "ReleaseCandidate" branch 
+  - We could use this to create a "ReleaseCandidate" branch and then create "Feature" branches from the "ReleaseCandidate" branch 
 - A branch is a parallel version of a repository. It is contained within the repository, but does not affect the primary or main branch allowing you to work freely without disrupting the "live" version. When you've made the changes you want to make, you can merge your branch back into the main branch to publish your changes. 
 
 ## Commits
