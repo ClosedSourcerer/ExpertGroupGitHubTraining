@@ -3,11 +3,6 @@ Schwimmen auf dem See
 Schwimmen auf dem See
 Köpfchen in das Wasser
 Schwänzchen in die Höh.
-Alle meine Gänschen
-Watscheln durch den Grund
-Watscheln durch den Grund
-Gründeln in den Tümpeln
-Werden kugelrund.
 Alle meine Hühnchen
 Schnarren in dem Stroh
 Schnarren in dem Stroh
