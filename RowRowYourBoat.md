@@ -15,7 +15,7 @@ listen to it squeak.
 
 {movement inducing verb}, {movement inducing verb}, {movement inducing verb} your {naval vessel}
 gently down the river.
-If the river gets you wet,
+If the lake gets you wet,
 don’t forget to shiver.
 
 {movement inducing verb}, {movement inducing verb}, {movement inducing verb} the {naval vessel}
