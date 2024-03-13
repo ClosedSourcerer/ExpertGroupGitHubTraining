@@ -1,7 +1,7 @@
 {energy emmiting action}, {energy emmiting action}, {size} {celestial body},
 how I wonder what you are.
 Up above the world so high
-like a {state of iron} in the sky.
+like a {state of carbon} in the sky.
 {energy emmiting action}, {energy emmiting action} {size} {celestial body},
 how I wonder what you are.
 
