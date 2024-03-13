@@ -1,4 +1,4 @@
-Five little {animal} jumping on the {furniture}.
+Five little {animal} painting on the {furniture}.
 One fell off and bumped his {body part}.
 Mama called the doctor,
 and the doctor said:
