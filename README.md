@@ -23,7 +23,7 @@ https://docs.github.com/en/get-started/learning-about-github/github-glossary
   - Select your branch and navigate to one of the MD files that is not README.md
   - Edit the file and commit the change to the branch
   - Create  Pull requests to merge this branch back into main and add ClosedSourcerer as a Reviewer
-  - <<Wait for ClosedSourcer to Review and Merge>>
+  - `Wait for ClosedSourcer to Review and Merge`
   - Delete the feature branch
 - Creating Issues / Discussion directly from an existing file
   - Open one of the md files
