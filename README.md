@@ -39,6 +39,20 @@ https://docs.github.com/en/get-started/learning-about-github/github-glossary
 
 ```mermaid
 graph TD;
+classDef main fill:#BF7100
+    Z:::main
+    A:::main
+    B:::main
+    D:::main
+    E:::main
+    F:::main
+    G:::main
+    I:::main
+    J:::main
+    Z[Start] -->|Create Discussion directly| A
+    Z[Start] -->|Create Discussion from FileView| A
+    Z[Start] -->|Create Issue directly| D
+    Z[Start] -->|Create Issue from FileView| D
     A[Discussions]-->|Discuss|B{Decide};
     B-->|Close Discussion|C[END];
     B-->|Create issue from discussion and close discussion|D[Issues];
