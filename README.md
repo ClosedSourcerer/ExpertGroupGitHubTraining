@@ -4,6 +4,32 @@ https://docs.github.com/en
 
 https://docs.github.com/en/get-started/learning-about-github/github-glossary
 
+## Training Tasks:
+
+- Basic Setup
+  - Create a GitHub Account --> MUST be done in advance
+  - Setup Two Factor Authentication --> SHOULD be done in advance
+  - Add name, company and a picture to your account
+- Basic GitHub Navigation
+  - Find ClosedSourcerer, go to the Expert Group Training Repository, Star the repository,
+  - Find catenax-ev and follow it
+  - Find stephanbcbauer and have him inite you to catenax-ev, accept the invite
+- Basic Process within the training repo: https://github.com/ClosedSourcerer/ExpertGroupGitHubTraining 
+  - Start a discussion, participate in another users discussion, create an issue from your discussion (or decide that it is unworthy and close the discussion)
+  - Add Assignees to the Issue, add the issue to the project and fill the custom properties
+  - Goto the correct project flip through the different views, plan your issue ()
+  - Go back to the issue and create a branch from the issue
+- Actually Working on a file
+  - Select your branch and navigate to one of the MD files that is not README.md
+  - Edit the file and commit the change to the branch
+  - Create  Pull requests to merge this branch back into main and add ClosedSourcerer as a Reviewer
+  - <<Wait for ClosedSourcer to Review and Merge>>
+  - Delete the feature branch
+- Creating Issues / Discussion directly from an existing file
+  - Open one of the md files
+  - go to either code or blame view 
+  - click on a line number and choose "reference in new discussion" or "reference in new issue"
+
 ## History
 
 ![Version Control Why](src/VersionControl_Why.svg)
@@ -54,7 +80,7 @@ gitGraph
     commit id: "24.03"
     branch "Feature A"
     commit id: "Added Feature"
-    commit id: "Pull Requests"
+    commit id: "Create Pull Request"
     commit id: "Review"
     commit id: "Changes after Review"
     checkout main
@@ -203,6 +229,8 @@ gitGraph
 
 **The Cauchy-Schwarz Inequality**
 
+https://latex.codecogs.com/eqneditor/editor.php
+
 ```math
 \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
 ```
@@ -243,6 +271,8 @@ endsolid
 ```
 
 **Some Flowchart**
+
+https://mermaid.live/
 
 ```mermaid
 graph TD;
