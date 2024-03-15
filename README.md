@@ -3,7 +3,6 @@
 https://docs.github.com/en
 
 https://docs.github.com/en/get-started/learning-about-github/github-glossary
-kjtzjh
 
 ## History
 
@@ -11,7 +10,18 @@ kjtzjh
 
 ## Process
 
-![Version Control Process](src/VersionControl_Why_2.svg)
+```mermaid
+graph LR;
+    A[Discussions]-->|Discuss|B{Decide};
+    B-->|Close Discussion|C[END];
+    B-->|Create issue from discussion and close discussion|D[Issues];
+    D-->|Create a branch for this issue|E[Feature Branch];
+    E-->|Create a Pull Request|F[Pull requests]
+    F-->|Review Pull Request|G{Decide}
+    G-->|Close pull requests|H[END]
+    G-->|Merge pull requests|I[Main Branch]
+    I-->J[SUCCESS]
+```
 
 - Setup a team
 - Setup a repository
@@ -34,6 +44,10 @@ kjtzjh
   - Merge
   - Delete feature-branch
 - End: Loop
+
+### Feature Branches
+
+![Version Control Process](src/VersionControl_Why_2.svg)
 
 ## Main View
 
