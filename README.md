@@ -11,7 +11,7 @@ https://docs.github.com/en/get-started/learning-about-github/github-glossary
 ## Process
 
 ```mermaid
-graph LR;
+graph TD;
     A[Discussions]-->|Discuss|B{Decide};
     B-->|Close Discussion|C[END];
     B-->|Create issue from discussion and close discussion|D[Issues];
