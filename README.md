@@ -14,7 +14,8 @@ https://docs.github.com/en/get-started/learning-about-github/github-glossary
   - Find ClosedSourcerer, go to the Expert Group Training Repository, Star the repository,
   - Find catenax-ev and follow it
   - Find stephanbcbauer and have him inite you to catenax-ev, accept the invite
-- Basic Process within the training repo: https://github.com/ClosedSourcerer/ExpertGroupGitHubTraining 
+- Basic Process within the training repo:
+  - Go to the training Repo via your profile and "Your stars"
   - Start a discussion, participate in another users discussion, create an issue from your discussion (or decide that it is unworthy and close the discussion)
   - Add Assignees to the Issue, add the issue to the project and fill the custom properties
   - Goto the correct project flip through the different views, plan your issue ()
