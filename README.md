@@ -49,6 +49,36 @@ graph TD;
 
 ![Version Control Process](src/VersionControl_Why_2.svg)
 
+```mermaid
+gitGraph
+    commit id: "24.03"
+    branch "Feature A"
+    commit id: "Added Feature"
+    commit id: "Pull Requests"
+    commit id: "Review"
+    commit id: "Changes after Review"
+    checkout main
+    branch "Feature B"
+    commit
+    commit
+    commit
+    commit
+    checkout main
+    merge "Feature B"
+    commit id: "24.05"
+    branch "Feature C"
+    commit
+    commit
+    commit
+    commit
+    checkout main
+    commit id: "Technical Maintenance"
+    merge "Feature A"
+    merge "Feature C"
+    commit id: "24.08"
+```
+
+
 ## Main View
 
 ![Repo Main View](src/Repo_Main_View.jpg)
