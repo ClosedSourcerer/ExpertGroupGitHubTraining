@@ -77,6 +77,19 @@ graph TD;
 ![Version Control Process](src/VersionControl_Why_2.svg)
 
 ```mermaid
+    %%{init: { 'logLevel': 'debug', 'theme': 'default' , 'themeVariables': {
+              'git0': '#b3cb2d',
+              'git1': '#ffa600',
+              'git2': '#dd8200',
+              'git3': '#bf7100',
+            'gitBranchLabel0': '#000000',
+            'gitBranchLabel1': '#000000',
+            'gitBranchLabel2': '#000000',
+            'gitBranchLabel3': '#000000',
+            'commitLabelColor': '#f4f2f3',
+            'commitLabelBackground': '#219dd4',
+            'commitLabelFontSize': '14px'
+       } } }%%
 gitGraph
     commit id: "24.03"
     branch "Feature A"
@@ -91,7 +104,7 @@ gitGraph
     commit
     commit
     checkout main
-    merge "Feature B"
+    merge "Feature B" id: "Merged Feature B"
     commit id: "24.05"
     branch "Feature C"
     commit
@@ -100,9 +113,10 @@ gitGraph
     commit
     checkout main
     commit id: "Technical Maintenance"
-    merge "Feature A"
-    merge "Feature C"
+    merge "Feature A" id: "Merged Feature A"
+    merge "Feature C" id: "Merged Feature C"
     commit id: "24.08"
+
 ```
 
 
