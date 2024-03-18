@@ -4,6 +4,8 @@ https://docs.github.com/en
 
 https://docs.github.com/en/get-started/learning-about-github/github-glossary
 
+https://www.eclipse.org/projects/training/
+
 ## Training Tasks:
 
 - Basic Setup
