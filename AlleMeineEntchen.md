@@ -5,6 +5,10 @@ Köpfchen in das Wasser
 Schwänzchen in die Höh.
 Alle meine Hühnchen
 Schnarren in dem Stroh
+|a|b|c|
+|-|-|-|
+|1|2|3|
+
 Schnarren in dem Stroh
 Finden sie ein Körnchen
 Sind sie alle froh.
